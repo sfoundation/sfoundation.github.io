@@ -19,12 +19,19 @@
 		<script src="js/skel.min.js"></script>
 		<script src="js/skel-panels.min.js"></script>
 		<script src="js/jquery.slides.min.js"></script>
+		<link rel="stylesheet" href="fancybox/source/jquery.fancybox.css" type="text/css" media="screen" />
+		<script type="text/javascript" src="fancybox/source/jquery.fancybox.pack.js"></script>
+
 
 		<script>
 		    var w = Math.max(document.documentElement.clientWidth, window.innerWidth || 0)
 		    var h = Math.max(document.documentElement.clientHeight, window.innerHeight || 0)
 		    $(function() {
-		      $('#slides').slidesjs({
+
+
+		    $(".fancybox").fancybox();
+		    
+		    $('#slides').slidesjs({
 		        width: w,
 		        height: h,
 		        effect:{
@@ -42,8 +49,10 @@
 		        }
 		      });
 		    });
+		    
+		    
 		 </script>
-		<noscript>
+		 <noscript>
 			<link rel="stylesheet" href="css/skel-noscript.css" />
 			<link rel="stylesheet" href="css/style.css" />
 			<link rel="stylesheet" href="css/style-desktop.css" />
@@ -132,19 +141,19 @@
 														<p>Every year from 2015 onwards, bright students from economically backward families are selected on the basis of their performance in a unique IQ test devised and performed by certified clinical psychologists. The foundation will bear the entire educational expenditure for these students, including special 
 														coaching till they find their own feet in the society.<p>
 														<p align = "center">
-														<img src = "images/test/exam3.jpg" style = "width:30%"/>
-														<img src = "images/test/exam2.jpg" style = "width:30%"/>
-
+														<a class = "fancybox" rel="exam" href ="images/test/exam3.jpg"><img src = "images/test/exam3.jpg" alt="" style = "width:19.7%"/></a>
+														<a class = "fancybox" rel="exam" href ="images/test/exam2.jpg"><img src = "images/test/exam2.jpg" style = "width:19.7%"/></a>
 														</p>
 														<h3 id = "health">Health camp</h3>
 														<p>A health camp was conducted on 29 Mar '15 at Padmapur high school, champati in collaboration with IMS & SUM hospital. Free basic health checkup, speciality checkups for eye,ENT,dental,ECG,blood sugar and dermatology and super-speciality checkups in gastroenterology and cardiology was provided alongwith free dispersal of required medicine.   
 														</p>
-													    	<img src = "images/health/health1.jpg" style = "width:19.7%"/>
-														<img src = "images/health/health2.jpg" style = "width:19.7%"/>
-														<img src = "images/health/health6.jpg" style = "width:19.7%"/>
-														<img src = "images/health/health4.jpg" style = "width:19.7%"/>
-														<img src = "images/health/health5.jpg" style = "width:19.7%"/>
-														
+													    	<p align = "center">
+													    	<a class = "fancybox" rel="health" href="images/health/health1.jpg"><img src = "images/health/health1.jpg" style = "width:19%"/>
+														<a class = "fancybox" rel="health" href="images/health/health2.jpg"><img src = "images/health/health2.jpg" style = "width:19%"/>
+														<a class = "fancybox" rel="health" href="images/health/health6.jpg"><img src = "images/health/health6.jpg" style = "width:19%"/>
+														<a class = "fancybox" rel="health" href="images/health/health4.jpg"><img src = "images/health/health4.jpg" style = "width:19%"/>
+													    	<a class = "fancybox" rel="health" href="images/health/health5.jpg"><img src = "images/health/health5.jpg" style = "width:19%"/>
+														</p>
 													</article>
 											</div>
 											
