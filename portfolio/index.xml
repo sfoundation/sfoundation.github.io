@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio-rsses on Savitree Foundation</title>
+    <link>https://example.org/portfolio/index.xml</link>
+    <description>Recent content in Portfolio-rsses on Savitree Foundation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;2016 Savitree Foundation</copyright>
+    <lastBuildDate>Sun, 29 Mar 2015 18:25:22 +0530</lastBuildDate>
+    <atom:link href="https://example.org/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>First batch of students selected</title>
+      <link>https://example.org/portfolio/test2015/</link>
+      <pubDate>Sun, 29 Mar 2015 18:25:22 +0530</pubDate>
+      
+      <guid>https://example.org/portfolio/test2015/</guid>
+      <description>&lt;p&gt;The first batch of students for the &lt;strong&gt;Each One Teach One&lt;/strong&gt; program have been selected!
+&lt;/p&gt;
+
+&lt;p&gt;Every year from 2015 onwards, bright students from &lt;strong&gt;economically backward&lt;/strong&gt; families will be selected on the basis of their performance in a &lt;strong&gt;unique IQ test&lt;/strong&gt; devised and performed by certified clinical psychologists. The foundation will bear the entire educational expenditure for these students, including special coaching till they find their own feet in the society.&lt;/p&gt;
+
+&lt;p&gt;The first batch of students have been selected after the test was conducted at Padmapur High School, Champati on 29 March, 2015, amongst 65 students from various schools around Padmapur region in Cuttack. After the IQ test, clinical psychologists personally met and evaluated each candidate before declaring 9 students who would receive the support.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Savitree Foundation</title>
+    <link>https://example.org/programs/each-one-teach-one/index.xml</link>
+    <description>Recent content on Savitree Foundation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;2016 Savitree Foundation</copyright>
+    <atom:link href="https://example.org/programs/each-one-teach-one/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Second batch of students selected</title>
+      <link>https://example.org/posts/test2016/</link>
+      <pubDate>Sun, 27 Mar 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://example.org/posts/test2016/</guid>
+      <description>&lt;p&gt;The second batch of students for the &lt;strong&gt;Each One Teach One&lt;/strong&gt; program have been selected!
+&lt;/p&gt;
+
+&lt;p&gt;The second batch of students have been selected after the test was conducted at Savitree Foundation Office, Champati on 27 March, 2016, amongst 52 students from 11 schools around Padmapur region in Cuttack. After the IQ test, clinical psychologists personally met and evaluated each candidate before declaring 9 students who would receive the support.&lt;/p&gt;
+
+&lt;!-- Arpita Jena, Vaishnavi Malla, Subhashree Behera, Jayprakash Biswal, Manisha Sahoo, Ratikant Sahoo, Bhakti Prasad Nayak, Ajay Behera, Ahetsam Masuk --&gt;</description>
+    </item>
+    
+    <item>
+      <title>First batch of students selected</title>
+      <link>https://example.org/posts/test2015/</link>
+      <pubDate>Sun, 29 Mar 2015 18:25:22 +0530</pubDate>
+      
+      <guid>https://example.org/posts/test2015/</guid>
+      <description>&lt;p&gt;The first batch of students for the &lt;strong&gt;Each One Teach One&lt;/strong&gt; program have been selected!
+&lt;/p&gt;
+
+&lt;p&gt;The first batch of students have been selected after the test was conducted at Padmapur High School, Champati on 29 March, 2015, amongst 65 students from various schools around Padmapur region in Cuttack. After the IQ test, clinical psychologists personally met and evaluated each candidate before declaring 9 students who would receive the support.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Each One Teach One Program</title>
+      <link>https://example.org/posts/each-one-teach-one/</link>
+      <pubDate>Thu, 01 Jan 2015 18:25:22 +0530</pubDate>
+      
+      <guid>https://example.org/posts/each-one-teach-one/</guid>
+      <description>&lt;p&gt;The details for the &lt;strong&gt;Each-One-Teach-One&lt;/strong&gt; program.
+&lt;/p&gt;
+
+&lt;p&gt;At present, education in the rural areas is completely Government supported. Thus, students tend to drop out of school as soon as the extent of the support decreases. Moreover, not all schools in the rural areas are equipped with the necessary resources to provide a basic standard of education.&lt;/p&gt;
+
+&lt;p&gt;There are numerous intelligent students, who despite their intelligence lack formal education due to various personal factors. These students aren&amp;rsquo;t provided with a proper vision to employ their intelligence and education to shape a prosperous future for themselves and their family. We aim to identify such students through an innovatively devised &lt;strong&gt;IQ test&lt;/strong&gt;, adapted from the renowned Cambridge Self-Scoring IQ Test. We have created a &lt;a href=&#34;https://example.org/pdf/book.pdf&#34;&gt;booklet&lt;/a&gt; for the same (in Odia) with the hope that it will act as a guide for other similar endeavors.&lt;/p&gt;
+
+&lt;p&gt;Every year from 2015 onwards, bright students from &lt;strong&gt;economically backward&lt;/strong&gt; families are being selected on the basis of their performance in this &lt;strong&gt;unique IQ test&lt;/strong&gt; devised and performed by certified clinical psychologists. The foundation will enroll them in the best available local school and bear their entire educational expenditure, including special coaching, travel etc. till they find their own feet in the society. The only condition that the foundation imposes on the students is that they support one or more students through this program once they have established themselves, leading to the self-sustainability of the program.&lt;/p&gt;
+
+&lt;p&gt;We also hope to kindle similar programs in other parts of Odisha with like minded individuals/groups with the endeavor of providing a platform for such deserving students to make their way up in the society.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
