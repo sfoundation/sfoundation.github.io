@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolio-rsses on Savitree Foundation</title>
-    <link>https://savitreefoundation.org/portfolio/index.xml</link>
+    <link>http://savitreefoundation.org/portfolio/index.xml</link>
     <description>Recent content in Portfolio-rsses on Savitree Foundation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2016 Savitree Foundation</copyright>
     <lastBuildDate>Sun, 29 Mar 2015 18:25:22 +0530</lastBuildDate>
-    <atom:link href="https://savitreefoundation.org/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://savitreefoundation.org/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>First batch of students selected</title>
-      <link>https://savitreefoundation.org/portfolio/test2015/</link>
+      <link>http://savitreefoundation.org/portfolio/test2015/</link>
       <pubDate>Sun, 29 Mar 2015 18:25:22 +0530</pubDate>
       
-      <guid>https://savitreefoundation.org/portfolio/test2015/</guid>
+      <guid>http://savitreefoundation.org/portfolio/test2015/</guid>
       <description>&lt;p&gt;The first batch of students for the &lt;strong&gt;Each One Teach One&lt;/strong&gt; program have been selected!
 &lt;/p&gt;
 
