@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Team-rsses on Savitree Foundation</title>
-    <link>http://savitreefoundation.org/team/index.xml</link>
-    <description>Recent content in Team-rsses on Savitree Foundation</description>
+    <title>Teams on Savitree Foundation</title>
+    <link>http://savitreefoundation.org/team/</link>
+    <description>Recent content in Teams on Savitree Foundation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2016 Savitree Foundation</copyright>
     <lastBuildDate>Sat, 05 Nov 2016 21:05:33 +0530</lastBuildDate>
-    <atom:link href="http://savitreefoundation.org/team/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://savitreefoundation.org/team/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Team</title>

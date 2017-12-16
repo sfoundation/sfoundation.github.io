@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programs on Savitree Foundation</title>
+    <link>http://savitreefoundation.org/programs/</link>
+    <description>Recent content in Programs on Savitree Foundation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;2016 Savitree Foundation</copyright>
+    <lastBuildDate>Sun, 26 Mar 2017 18:25:22 +0530</lastBuildDate>
+    
+	<atom:link href="http://savitreefoundation.org/programs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Each One Teach One</title>
+      <link>http://savitreefoundation.org/programs/each-one-teach-one/</link>
+      <pubDate>Sun, 26 Mar 2017 18:25:22 +0530</pubDate>
+      
+      <guid>http://savitreefoundation.org/programs/each-one-teach-one/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Healthcare</title>
+      <link>http://savitreefoundation.org/programs/healthcare/</link>
+      <pubDate>Sun, 29 Mar 2015 19:41:01 +0530</pubDate>
+      
+      <guid>http://savitreefoundation.org/programs/healthcare/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Krushi Vikas</title>
+      <link>http://savitreefoundation.org/programs/krushi-vikas/</link>
+      <pubDate>Mon, 10 Oct 2016 18:25:22 +0530</pubDate>
+      
+      <guid>http://savitreefoundation.org/programs/krushi-vikas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Success Stories</title>
+      <link>http://savitreefoundation.org/programs/success-stories/</link>
+      <pubDate>Wed, 10 May 2017 18:25:22 +0530</pubDate>
+      
+      <guid>http://savitreefoundation.org/programs/success-stories/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

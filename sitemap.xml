@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://savitreefoundation.org/</loc>
-    <lastmod>2016-11-06T13:00:25+05:30</lastmod>
+    <loc>http://savitreefoundation.org/posts/pond2017/</loc>
+    <lastmod>2017-05-10T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://savitreefoundation.org/posts/test2017/</loc>
+    <lastmod>2017-03-26T18:25:22+05:30</lastmod>
   </url>
   
   <url>
@@ -69,6 +75,72 @@
   <url>
     <loc>http://savitreefoundation.org/posts/krushi-vikas/</loc>
     <lastmod>2015-01-01T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://savitreefoundation.org/about/</loc>
+    <lastmod>2016-11-05T21:05:33+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://savitreefoundation.org/contact/</loc>
+    <lastmod>2016-11-06T13:00:25+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://savitreefoundation.org/programs/each-one-teach-one/</loc>
+    <lastmod>2017-03-26T18:25:22+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://savitreefoundation.org/programs/healthcare/</loc>
+    <lastmod>2015-03-29T19:41:01+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://savitreefoundation.org/programs/krushi-vikas/</loc>
+    <lastmod>2016-10-10T18:25:22+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://savitreefoundation.org/portfolio/</loc>
+    <lastmod>2015-03-29T18:25:22+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://savitreefoundation.org/posts/</loc>
+    <lastmod>2017-05-10T18:25:22+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://savitreefoundation.org/programs/</loc>
+    <lastmod>2017-03-26T18:25:22+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://savitreefoundation.org/</loc>
+    <lastmod>2017-05-10T18:25:22+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://savitreefoundation.org/programs/success-stories/</loc>
+    <lastmod>2017-05-10T18:25:22+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://savitreefoundation.org/team/</loc>
+    <lastmod>2016-11-05T21:05:33+05:30</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>

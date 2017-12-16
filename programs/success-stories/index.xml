@@ -1,13 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Savitree Foundation</title>
-    <link>http://savitreefoundation.org/programs/success-stories/index.xml</link>
-    <description>Recent content on Savitree Foundation</description>
+    <title>Success Stories on Savitree Foundation</title>
+    <link>http://savitreefoundation.org/programs/success-stories/</link>
+    <description>Recent content in Success Stories on Savitree Foundation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2016 Savitree Foundation</copyright>
-    <atom:link href="http://savitreefoundation.org/programs/success-stories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 May 2017 18:25:22 +0530</lastBuildDate>
+    
+	<atom:link href="http://savitreefoundation.org/programs/success-stories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Village ponds renovated</title>
+      <link>http://savitreefoundation.org/posts/pond2017/</link>
+      <pubDate>Wed, 10 May 2017 18:25:22 +0530</pubDate>
+      
+      <guid>http://savitreefoundation.org/posts/pond2017/</guid>
+      <description>&lt;p&gt;The foundation took responsibility of the village ponds and has resurrected them, much to the villagers&amp;rsquo; joy.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Record rice grain yield due to scientific cropping</title>
@@ -15,8 +27,7 @@
       <pubDate>Mon, 10 Oct 2016 18:25:22 +0530</pubDate>
       
       <guid>http://savitreefoundation.org/posts/recordagriculture2016/</guid>
-      <description>&lt;p&gt;
-Scientific cropping methods and agricultural implements provided by Savitree Foundation to certain farmers in Champati Village have resulted in highest ever per area yield of paddy in the region (decided by the State Department of Agriculture.). The associated scientists have prepared a &lt;a href=&#34;http://savitreefoundation.org/pdf/paddy2016.pdf&#34;&gt;document&lt;/a&gt; for the same.&lt;/p&gt;</description>
+      <description></description>
     </item>
     
   </channel>

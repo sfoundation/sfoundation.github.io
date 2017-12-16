@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Contact-rsses on Savitree Foundation</title>
-    <link>http://savitreefoundation.org/contact/index.xml</link>
-    <description>Recent content in Contact-rsses on Savitree Foundation</description>
+    <title>Contacts on Savitree Foundation</title>
+    <link>http://savitreefoundation.org/contact/</link>
+    <description>Recent content in Contacts on Savitree Foundation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2016 Savitree Foundation</copyright>
     <lastBuildDate>Sun, 06 Nov 2016 13:00:25 +0530</lastBuildDate>
-    <atom:link href="http://savitreefoundation.org/contact/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://savitreefoundation.org/contact/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Get in touch</title>
@@ -16,17 +18,14 @@
       <pubDate>Sun, 06 Nov 2016 13:00:25 +0530</pubDate>
       
       <guid>http://savitreefoundation.org/contact/</guid>
-      <description>&lt;p&gt;We would love to hear from you. Please drop us an e-mail or give us a call.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Address&lt;/strong&gt;: &amp;ldquo;Shree Ganesh&amp;rdquo;,&lt;br&gt;
-A-024, Cosmopolis,&lt;br&gt;
-Dumduma, Bhubaneswar,&lt;br&gt;
-Odisha, India - 751019&lt;br&gt;&lt;br&gt;
-&lt;strong&gt;Mail&lt;/strong&gt;: &lt;a href=&#34;mailto:savitreefoundation@gmail.com&#34;&gt;savitreefoundation@gmail.com&lt;/a&gt;&lt;br&gt;
-&lt;strong&gt;Phone&lt;/strong&gt;: &lt;a href=&#34;tel:+919437035906&#34;&gt;+919437035906&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
+      <description>We would love to hear from you. Please drop us an e-mail or give us a call.
+ Address: &amp;ldquo;Shree Ganesh&amp;rdquo;,
+A-024, Cosmopolis,
+Dumduma, Bhubaneswar,
+Odisha, India - 751019
+Mail: savitreefoundation@gmail.com
+Phone: +919437035906
+ </description>
     </item>
     
   </channel>

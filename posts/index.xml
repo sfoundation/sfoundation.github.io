@@ -1,14 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts-rsses on Savitree Foundation</title>
-    <link>http://savitreefoundation.org/posts/index.xml</link>
-    <description>Recent content in Posts-rsses on Savitree Foundation</description>
+    <title>Posts on Savitree Foundation</title>
+    <link>http://savitreefoundation.org/posts/</link>
+    <description>Recent content in Posts on Savitree Foundation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2016 Savitree Foundation</copyright>
-    <lastBuildDate>Mon, 10 Oct 2016 18:25:22 +0530</lastBuildDate>
-    <atom:link href="http://savitreefoundation.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 May 2017 18:25:22 +0530</lastBuildDate>
+    
+	<atom:link href="http://savitreefoundation.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Village ponds renovated</title>
+      <link>http://savitreefoundation.org/posts/pond2017/</link>
+      <pubDate>Wed, 10 May 2017 18:25:22 +0530</pubDate>
+      
+      <guid>http://savitreefoundation.org/posts/pond2017/</guid>
+      <description>&lt;p&gt;The foundation took responsibility of the village ponds and has resurrected them, much to the villagers&amp;rsquo; joy.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Third batch of students selected</title>
+      <link>http://savitreefoundation.org/posts/test2017/</link>
+      <pubDate>Sun, 26 Mar 2017 18:25:22 +0530</pubDate>
+      
+      <guid>http://savitreefoundation.org/posts/test2017/</guid>
+      <description>&lt;p&gt;The third batch of students for the &lt;strong&gt;Each One Teach One&lt;/strong&gt; program have been selected!
+&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Record rice grain yield due to scientific cropping</title>
@@ -16,8 +37,7 @@
       <pubDate>Mon, 10 Oct 2016 18:25:22 +0530</pubDate>
       
       <guid>http://savitreefoundation.org/posts/recordagriculture2016/</guid>
-      <description>&lt;p&gt;
-Scientific cropping methods and agricultural implements provided by Savitree Foundation to certain farmers in Champati Village have resulted in highest ever per area yield of paddy in the region (decided by the State Department of Agriculture.). The associated scientists have prepared a &lt;a href=&#34;http://savitreefoundation.org/pdf/paddy2016.pdf&#34;&gt;document&lt;/a&gt; for the same.&lt;/p&gt;</description>
+      <description></description>
     </item>
     
     <item>
@@ -27,11 +47,7 @@ Scientific cropping methods and agricultural implements provided by Savitree Fou
       
       <guid>http://savitreefoundation.org/posts/test2016/</guid>
       <description>&lt;p&gt;The second batch of students for the &lt;strong&gt;Each One Teach One&lt;/strong&gt; program have been selected!
-&lt;/p&gt;
-
-&lt;p&gt;The second batch of students have been selected after the test was conducted at Savitree Foundation Office, Champati on 27 March, 2016, amongst 52 students from 11 schools around Padmapur region in Cuttack. After the IQ test, clinical psychologists personally met and evaluated each candidate before declaring 9 students who would receive the support.&lt;/p&gt;
-
-&lt;!-- Arpita Jena, Vaishnavi Malla, Subhashree Behera, Jayprakash Biswal, Manisha Sahoo, Ratikant Sahoo, Bhakti Prasad Nayak, Ajay Behera, Ahetsam Masuk --&gt;</description>
+&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -40,13 +56,7 @@ Scientific cropping methods and agricultural implements provided by Savitree Fou
       <pubDate>Sat, 19 Mar 2016 18:25:22 +0530</pubDate>
       
       <guid>http://savitreefoundation.org/posts/meetingagriculture2016/</guid>
-      <description>&lt;p&gt;
-Experts from different fields of Agriculture of IAS, SOA University and Coordinator CRTD, SOA University met the local farmers and explored the possibility of farm mechanization and suitability for crop diversification in the agricultural land neighboring the Savitree Foundation Training center. A &lt;a href=&#34;http://savitreefoundation.org/pdf/idapreport.pdf&#34;&gt;report&lt;/a&gt; and a &lt;a href=&#34;http://savitreefoundation.org/pdf/idap2.pdf&#34;&gt;presentation&lt;/a&gt; was made for the same.&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;br&gt;
-&lt;img src = &#34;/img/agriculture/idap1.jpg&#34; width = &#34;40%&#34;&gt;&lt;/img&gt;
-&lt;img src = &#34;/img/agriculture/idap2.jpg&#34; width = &#34;40%&#34;&gt;&lt;/img&gt;
-&lt;img src = &#34;/img/agriculture/idap3.jpg&#34; width = &#34;100%&#34;&gt;&lt;/img&gt;&lt;/p&gt;</description>
+      <description></description>
     </item>
     
     <item>
@@ -56,17 +66,7 @@ Experts from different fields of Agriculture of IAS, SOA University and Coordina
       
       <guid>http://savitreefoundation.org/posts/health2015/</guid>
       <description>&lt;p&gt;A health camp was conducted at Padmapur high school, Champati Village in collaboration with IMS and SUM hospital on 29 March, 2015.
-&lt;/p&gt;
-
-&lt;p&gt;A health camp was conducted on 29 March 2015 at Padmapur high school, champati in collaboration with IMS &amp;amp; SUM hospital. &lt;strong&gt;Free basic health checkup, speciality checkups for eye, ENT, dental, ECG, blood sugar and dermatology and super-speciality checkups in gastroenterology and cardiology&lt;/strong&gt; was provided alongwith free dispersal of required medicine. A total of &lt;strong&gt;612 people&lt;/strong&gt; benefited from this program.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://savitreefoundation.org/img/health/health1.jpg&#34; width = 40%&gt;&lt;/img&gt;
-&lt;img src=&#34;http://savitreefoundation.org/img/health/health2.jpg&#34; width = 40%&gt;&lt;/img&gt;
-&lt;img src=&#34;http://savitreefoundation.org/img/health/health3.jpg&#34; width = 40%&gt;&lt;/img&gt;
-&lt;img src=&#34;http://savitreefoundation.org/img/health/health4.jpg&#34; width = 40%&gt;&lt;/img&gt;
-&lt;img src=&#34;http://savitreefoundation.org/img/health/health5.jpg&#34; width = 40%&gt;&lt;/img&gt;
-&lt;img src=&#34;http://savitreefoundation.org/img/health/health6.jpg&#34; width = 40%&gt;&lt;/img&gt;
-&lt;img src=&#34;http://savitreefoundation.org/img/health/health7.jpg&#34; width = 40%&gt;&lt;/img&gt;&lt;/p&gt;</description>
+&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -76,9 +76,7 @@ Experts from different fields of Agriculture of IAS, SOA University and Coordina
       
       <guid>http://savitreefoundation.org/posts/test2015/</guid>
       <description>&lt;p&gt;The first batch of students for the &lt;strong&gt;Each One Teach One&lt;/strong&gt; program have been selected!
-&lt;/p&gt;
-
-&lt;p&gt;The first batch of students have been selected after the test was conducted at Padmapur High School, Champati on 29 March, 2015, amongst 65 students from various schools around Padmapur region in Cuttack. After the IQ test, clinical psychologists personally met and evaluated each candidate before declaring 9 students who would receive the support.&lt;/p&gt;</description>
+&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -88,11 +86,7 @@ Experts from different fields of Agriculture of IAS, SOA University and Coordina
       
       <guid>http://savitreefoundation.org/posts/healthcare/</guid>
       <description>&lt;p&gt;The details for the &lt;strong&gt;healthcare&lt;/strong&gt; program.
-&lt;/p&gt;
-
-&lt;p&gt;Healthcare facilities in the state still needs a lot of improvement. Through our tie up with one of the best teaching hospitals of the state i.e. IMS &amp;amp; SUM Hospital, we have decided to provide specialized healthcare to the residents of Champati and surrounding villages. Doctors from specialized and super specialized wings like Medicine, Opthalmology, Paediatrics, Pulmonary Medicine&amp;lt; Neurology, Gastroenterology, Oncology etc shall camp at the foundation office at regular intervals and provide free check up facility and medicines to the patients.&lt;/p&gt;
-
-&lt;p&gt;We conducted a &lt;a href=&#34;http://savitreefoundation.org/posts/health2015/&#34;&gt;mega health camp&lt;/a&gt;, which helped us assess the medical requirements of the residents of the area. The specialist doctor visits are planned accordingly.&lt;/p&gt;</description>
+&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -102,15 +96,7 @@ Experts from different fields of Agriculture of IAS, SOA University and Coordina
       
       <guid>http://savitreefoundation.org/posts/each-one-teach-one/</guid>
       <description>&lt;p&gt;The details for the &lt;strong&gt;Each-One-Teach-One&lt;/strong&gt; program.
-&lt;/p&gt;
-
-&lt;p&gt;At present, education in the rural areas is completely Government supported. Thus, students tend to drop out of school as soon as the extent of the support decreases. Moreover, not all schools in the rural areas are equipped with the necessary resources to provide a basic standard of education.&lt;/p&gt;
-
-&lt;p&gt;There are numerous intelligent students, who despite their intelligence lack formal education due to various personal factors. These students aren&amp;rsquo;t provided with a proper vision to employ their intelligence and education to shape a prosperous future for themselves and their family. We aim to identify such students through an innovatively devised &lt;strong&gt;IQ test&lt;/strong&gt;, adapted from the renowned Cambridge Self-Scoring IQ Test. We have created a &lt;a href=&#34;http://savitreefoundation.org/pdf/book.pdf&#34;&gt;booklet&lt;/a&gt; for the same (in Odia) with the hope that it will act as a guide for other similar endeavors.&lt;/p&gt;
-
-&lt;p&gt;Every year from 2015 onwards, bright students from &lt;strong&gt;economically backward&lt;/strong&gt; families are being selected on the basis of their performance in this &lt;strong&gt;unique IQ test&lt;/strong&gt; devised and performed by certified clinical psychologists. The foundation will enroll them in the best available local school and bear their entire educational expenditure, including special coaching, travel etc. till they find their own feet in the society. The only condition that the foundation imposes on the students is that they support one or more students through this program once they have established themselves, leading to the self-sustainability of the program.&lt;/p&gt;
-
-&lt;p&gt;We also hope to kindle similar programs in other parts of Odisha with like minded individuals/groups with the endeavor of providing a platform for such deserving students to make their way up in the society.&lt;/p&gt;</description>
+&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -120,13 +106,7 @@ Experts from different fields of Agriculture of IAS, SOA University and Coordina
       
       <guid>http://savitreefoundation.org/posts/krushi-vikas/</guid>
       <description>&lt;p&gt;The details for the &lt;strong&gt;Krushi-Vikas&lt;/strong&gt; program.
-&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Agriculture is not profitable&lt;/em&gt; is a general consensus amongst most modern day farmers. We believe that such a notion exists because of the unscientific practices which they follow. In the champati area, we observed that farmers usually grow two crops a year: rice followed by sowing of green gram as the rain-fed crop without proper management practices. Majority areas were cultivated by tenant farmers while the total crop yield wasn&amp;rsquo;t enough for their livelihood.&lt;/p&gt;
-
-&lt;p&gt;A group of scientists, from Sikha &amp;lsquo;O&amp;rsquo; Anusandhan University, visited the village and opined that a shorter duration (120 days instead of 145 days) rice, followed by vegetable cultivation (winter and summer) would be highly profitable if proper scientific methods were to be followed. They agreed to provide the requisite input through continuous visits and evaluations.&lt;/p&gt;
-
-&lt;p&gt;On an experimental basis, we motivated few farmers in the village to adopt the proposed methods and provided them better lift-irrigation facilities and agriculture implements. The paddy crop raised in this experiment yielded &lt;a href=&#34;http://savitreefoundation.org/posts/recordagriculture2016&#34;&gt;&lt;strong&gt;highest ever output&lt;/strong&gt;&lt;/a&gt; (58.6 Quintal/hectare) in the area. On the back of this achievement, many farmers have now come forward to join the movement.&lt;/p&gt;</description>
+&lt;/p&gt;</description>
     </item>
     
   </channel>
