@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://savitreefoundation.org/posts/test2018/</loc>
+    <lastmod>2018-03-25T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>http://savitreefoundation.org/posts/pond2017/</loc>
     <lastmod>2017-05-10T18:25:22+05:30</lastmod>
   </url>
@@ -15,11 +20,6 @@
   <url>
     <loc>http://savitreefoundation.org/contact/</loc>
     <lastmod>2016-11-06T13:00:25+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://savitreefoundation.org/about/donate/</loc>
-    <lastmod>2016-11-05T21:05:33+05:30</lastmod>
   </url>
   
   <url>
@@ -78,20 +78,8 @@
   </url>
   
   <url>
-    <loc>http://savitreefoundation.org/about/</loc>
-    <lastmod>2016-11-05T21:05:33+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://savitreefoundation.org/contact/</loc>
-    <lastmod>2016-11-06T13:00:25+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://savitreefoundation.org/programs/each-one-teach-one/</loc>
-    <lastmod>2017-03-26T18:25:22+05:30</lastmod>
+    <lastmod>2018-03-25T18:25:22+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -115,31 +103,25 @@
   
   <url>
     <loc>http://savitreefoundation.org/posts/</loc>
-    <lastmod>2017-05-10T18:25:22+05:30</lastmod>
+    <lastmod>2018-03-25T18:25:22+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://savitreefoundation.org/programs/</loc>
-    <lastmod>2017-03-26T18:25:22+05:30</lastmod>
+    <lastmod>2018-03-25T18:25:22+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://savitreefoundation.org/</loc>
-    <lastmod>2017-05-10T18:25:22+05:30</lastmod>
+    <lastmod>2018-03-25T18:25:22+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://savitreefoundation.org/programs/success-stories/</loc>
     <lastmod>2017-05-10T18:25:22+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://savitreefoundation.org/team/</loc>
-    <lastmod>2016-11-05T21:05:33+05:30</lastmod>
     <priority>0</priority>
   </url>
   
